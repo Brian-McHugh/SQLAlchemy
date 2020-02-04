@@ -142,6 +142,3 @@ Now that you have completed your initial analysis, design a Flask API based on t
 
   ![daily-normals](Images/daily-normals.png)
 
-### Copyright
-
-Trilogy Education Services © 2019. All Rights Reserved.
